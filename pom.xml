@@ -14,6 +14,7 @@
         <module>Consul</module>
         <module>FeignEureka</module>
         <module>Hystrix</module>
+        <module>Config</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>

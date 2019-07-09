@@ -1,0 +1,23 @@
+package Application;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.SpringBootConfiguration;
+import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.cloud.config.server.EnableConfigServer;
+import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
+
+/**
+ * @author lqx
+ * @date 2019/7/5
+ * 注册中心
+ */
+
+@EnableConfigServer
+@SpringBootConfiguration
+@EnableAutoConfiguration
+public class ClientApplication {
+    public static void main(String[] args) {
+        SpringApplication.run(ClientApplication.class,args);
+    }
+}
