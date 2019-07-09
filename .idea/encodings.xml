@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Colony" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Colony/Eureka8100" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Colony/Eureka9100" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Consul" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Eureka/client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Eureka/customer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Eureka/product" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FeignEureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FeignEureka/CustomerServer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FeignEureka/EurekaServer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FeignEureka/ProductSer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FeignEureka/ProductServer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FeignEureka/ProductServer2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FeignEureka/ProductServer2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Hystrix" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Hystrix" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Hystrix/CustomerServer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Hystrix/EurekaServer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Hystrix/HystrixEureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Hystrix/HytrixCustomer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Hystrix/HytrixProduct" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Hystrix/ProductServer" charset="UTF-8" />
+  </component>
+</project>

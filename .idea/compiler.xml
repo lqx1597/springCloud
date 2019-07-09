@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="client" />
+        <module name="Consul" />
+        <module name="customer" />
+        <module name="CustomerServer" />
+        <module name="Eureka8100" />
+        <module name="Eureka9100" />
+        <module name="EurekaServer" />
+        <module name="HystrixEureka" />
+        <module name="HytrixCustomer" />
+        <module name="HytrixProduct" />
+        <module name="product" />
+        <module name="ProductSer" />
+        <module name="ProductServer" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="CustomerServer (1)" target="1.8" />
+      <module name="EurekaServer (1)" target="1.8" />
+      <module name="ProductServer (1)" target="1.8" />
+      <module name="ProductServer2" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Colony" options="-parameters" />
+      <module name="Consul" options="-parameters" />
+      <module name="CustomerServer" options="-parameters" />
+      <module name="Eureka8100" options="-parameters" />
+      <module name="Eureka9100" options="-parameters" />
+      <module name="EurekaServer" options="-parameters" />
+      <module name="FeignEureka" options="-parameters" />
+      <module name="Hystrix" options="-parameters" />
+      <module name="HystrixEureka" options="-parameters" />
+      <module name="HytrixCustomer" options="-parameters" />
+      <module name="HytrixProduct" options="-parameters" />
+      <module name="ProductSer" options="-parameters" />
+      <module name="ProductServer" options="-parameters" />
+      <module name="ProductServer (1)" options="-parameters" />
+      <module name="ProductServer2" options="-parameters" />
+      <module name="client" options="-parameters" />
+      <module name="customer" options="-parameters" />
+      <module name="product" options="-parameters" />
+    </option>
+  </component>
+</project>
